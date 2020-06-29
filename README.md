@@ -3,7 +3,7 @@ Various insights Regarding NLP project
 
 1 i_git_ignore file
 
-2 Corpus file include, DEMOSTRATING COCA CORPUS, Stemming, Lemmatization, Chinese word segmentation module
+2 Corpus file include, Demostrating coca corpus, Stemming, Lemmatization, Chinese word segmentation module
 
 3 Corpus output
 
